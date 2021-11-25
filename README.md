@@ -1,2 +1,2 @@
-# web-page-design
+# one-page-website
 css,html
